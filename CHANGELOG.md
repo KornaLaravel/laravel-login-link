@@ -2,6 +2,12 @@
 
 All notable changes to `laravel-login-link` will be documented in this file.
 
+## 1.6.6 - 2026-02-27
+
+- Use Pest 4
+- Require PHP 8.3+
+- Drop Laravel 10 support
+
 ## 2.0.0 - 2026-02-27
 
 - Use Pest 4
