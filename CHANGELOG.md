@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-login-link` will be documented in this file.
 
+## 1.6.4 - 2026-02-27
+
+Add Laravel 13.x compatibility
+
 ## 1.6.3 - 2025-04-16
 
 ### What's Changed
