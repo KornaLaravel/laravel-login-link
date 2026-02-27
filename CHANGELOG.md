@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-login-link` will be documented in this file.
 
+## 1.6.5 - 2026-02-27
+
+Drop PHP 8.0/8.1 support and fix CI matrix for PHP 8.4/8.5 with Laravel 10
+
 ## 1.6.4 - 2026-02-27
 
 Add Laravel 13.x compatibility
